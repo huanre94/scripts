@@ -14,7 +14,7 @@
 
 '''java
 public class ()
-	puclic main()
+	main()
 	{
 	int x = 0;
 	}
