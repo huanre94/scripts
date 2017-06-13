@@ -25,3 +25,17 @@ Id | Descripcion
 ---|------------
 1|Lapiz
 2|Pluma
+
+
+estado|tipo|respuesta|numero_autorizacion
+--|--|--|--
+0|20|00|Numero
+0|20|00|NULL
+0|20|09|NULL
+
+El valor se le debita la N cantidad de veces que se presenta los tipo 20
+
+estado|tipo|respuesta|numero_autorizacion
+--|--|--|--
+0|20|00|Numero
+0|05|00|NULL
