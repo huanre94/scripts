@@ -1,5 +1,5 @@
 # Scripts
-##Script SQL para la conciliación de pago de servicios BPAC
+## Script SQL para la conciliación de pago de servicios BPAC
 
 - [x] Produbanco
 - [x] Banco Pacifico
@@ -7,7 +7,7 @@
 - [x] Banco Bolivariano
 - [ ] Banco Guayaquil
 
-##
+## Categorias
 1. Ahorro
 2. Corriente
 3. Credito
