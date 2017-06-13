@@ -5,7 +5,7 @@ Script SQL para la conciliación de pago de servicios BPAC
 - [x] Banco Pacifico
 - [x] Banco Pichincha
 - [x] Banco Bolivariano
-- [] Banco Guayaquil
+- [ ] Banco Guayaquil
 
 
 1. Ahorro
