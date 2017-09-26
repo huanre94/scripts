@@ -12,14 +12,14 @@
 2. Corriente
 3. Credito
 
-'''java
+```java
 public class ()
 	main()
 	{
 	int x = 0;
 	}
 end class
-'''
+```
 
 Id | Descripcion
 ---|------------
